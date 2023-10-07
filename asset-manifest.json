@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.7cefaaeb.chunk.css",
-    "main.js": "/static/js/main.263810de.chunk.js",
+    "main.js": "/static/js/main.62e3674b.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.9448203f.js",
     "static/css/2.ef4caa0d.chunk.css": "/static/css/2.ef4caa0d.chunk.css",
     "static/js/2.87b333ee.chunk.js": "/static/js/2.87b333ee.chunk.js",
     "static/css/3.2298cf48.chunk.css": "/static/css/3.2298cf48.chunk.css",
     "static/js/3.aa911beb.chunk.js": "/static/js/3.aa911beb.chunk.js",
     "index.html": "/index.html",
-    "precache-manifest.eb4aa4bff555dd95fb98bdb40c946f7d.js": "/precache-manifest.eb4aa4bff555dd95fb98bdb40c946f7d.js",
+    "precache-manifest.a2971a0c69fa142eabd8a09100e09dd2.js": "/precache-manifest.a2971a0c69fa142eabd8a09100e09dd2.js",
     "service-worker.js": "/service-worker.js",
     "static/js/2.87b333ee.chunk.js.LICENSE": "/static/js/2.87b333ee.chunk.js.LICENSE",
     "static/media/index.less": "/static/media/Roboto-Regular.5673da52.ttf",
@@ -19,6 +19,6 @@
     "static/css/2.ef4caa0d.chunk.css",
     "static/js/2.87b333ee.chunk.js",
     "static/css/main.7cefaaeb.chunk.css",
-    "static/js/main.263810de.chunk.js"
+    "static/js/main.62e3674b.chunk.js"
   ]
 }
