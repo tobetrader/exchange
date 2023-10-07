@@ -1,0 +1,11 @@
+{
+  "name": "exchange",
+  "version": "0.0.1",
+  "private": false,
+  "scripts": {
+    "deploy": "gh-pages -d build"
+  },
+  "devDependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
